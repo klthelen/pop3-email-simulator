@@ -1,0 +1,7 @@
+From: "Joe Q. Public" <john.q.public@example.com>
+To: Mary Smith <mary@x.test>
+Cc: <boss@nil.test>
+Date: Tue, 1 Jul 2020 10:52:37 +0200
+Message-ID: <5678.21-Nov-1997@example.com>
+
+Hi everyone.
